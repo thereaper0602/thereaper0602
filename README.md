@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
 <h3 align="center">Learning CS at HCMCOU 2022. AI/ML developer, Competitive Programmer, Backend developer (hopefully Fullstack soon :) )</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Flofi&psig=AOvVaw0DRtwTxymt1Ds1KDJIj8h0&ust=1732032501713000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjy2oai5okDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/65daaf01-2a96-42d7-befb-a1a3c66264ef)
+">
 - 🌱 I’m currently learning **AI/ Machine learning, Software Developing**
 
 - 📫 How to reach me 

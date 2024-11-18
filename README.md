@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thereaper0602&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Wang_Edoc_0602" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thereaper0602&show_icons=true&title_color=423181&text_color=1b4346&locale=en" alt="Wang_Edoc_0602" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thereaper0602&theme=dark" alt="Wang_Edoc_0602" /></p>

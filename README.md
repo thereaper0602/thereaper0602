@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **AI/ Machine learning, Software Developing, Competitive Programming**
 
 - 📫 How to reach me 
-    - Email : **dangcapcothua2903@gmail.com**
+    - Email : **phiminhquang10a10@gmail.com**
     - CodeForces : **https://codeforces.com/profile/Wang_edoc_0602**
     - LeetCode : **https://leetcode.com/u/AIengi/**
     - And many more .... (updating...)

@@ -22,5 +22,5 @@
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=thereaper0602&theme=tokyonight&hide_border=true" height="150em" alt="GitHub Streak" />
   <br/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thereaper0602&show_icons=true&theme=vue&hide_border=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereaper0602&layout=compact&theme=vue&hide_border=true&langs_count=6&hide=html,css&custom_title=Top%20Languages" alt="Top Languages" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thereaper0602&show_icons=true&theme=vuedark&hide_border=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereaper0602&layout=compact&theme=vuedark&hide_border=true&langs_count=6&hide=html,css&custom_title=Top%20Languages" alt="Top Languages" />

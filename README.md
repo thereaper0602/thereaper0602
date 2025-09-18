@@ -23,4 +23,4 @@
   <br/>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereaper0602&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereaper0602&layout=compact&theme=vue-dark&hide_border=true&langs_count=6&hide=html,css&custom_title=Top%20Languages" alt="Top Languages" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konnn04&layout=compact&theme=vue-dark&hide_border=true&langs_count=6&hide=html,css&custom_title=Top%20Languages" alt="Top Languages" />
